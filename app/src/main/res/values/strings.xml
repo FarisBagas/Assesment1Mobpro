@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Assesment1Mobpro</string>
+    <string name="menu">Assesment1Mobpro</string>
+    <string name="label_pesanan">Pesanan</string>
+    <string name="label_jumlah">Jumlah Pesanan</string>
+    <string name="button_pesan">Pesan</string>
 </resources>
